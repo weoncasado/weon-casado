@@ -8,4 +8,4 @@ A mi esposa, a quien amo más que a mi vida, y que seguramente no tiene la más 
 
 Finalmente a todos ustedes, que sin saber quien mierda soy me regalan un rato de su tiempo y leen las webadas que escribo.
 
-Abril 2020 ~ Cuando termine la wea de libro si es que la llego a terminar
+{% right %} Abril 2020 ~ Cuando termine la wea de libro si es que la llego a terminar {% endright %}
