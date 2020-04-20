@@ -2,4 +2,7 @@
 * [Dedicatoria](dedicatoria.md) 
 * [¿A qué me debo preparar?](README.md) 
 * [Y me casé](me_case.md) 
-* [Los primeros años](primeros_annios.md) 
+* [Los primeros años... y todos los demás](primeros_annios.md) 
+    * [Los primeros años](primeros_annios.md#los-primeros-años)
+    * [Las cosas simples](primeros_annios.md#las-cosas-simples)
+    * [¿Andai con la wea?](primeros_annios.md#¿andai-con-la-wea)
