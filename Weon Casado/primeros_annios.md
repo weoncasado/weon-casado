@@ -23,6 +23,18 @@ Por lo menos la wea de las salidas es tema controlado, siempre y cuando:
 
 Así que una estrategia que me ha resultado, por lo menos pa juntarme con *El Profesor* (no porque el ql se parezca al Profesor de la Casa de Papel, sino pq el weón en realidad es profe, con pega de profe y sueldo de profe... CSM a este wn le prendo velas...), es que nos juntamos los Lunes o los Martes, entonces la salida de los viernes pasa piola, y hay tiempo pa recuperarse, miren que uno ya no tiene 20 años y la tolerancia a la caña no es la misma.
 
+## Las cosas simples
+
+Debo reconocer que no soy precisamente el más ordenado de los mortales. Pero fuera de todo dentro de mi *orden particular*, que a vista y paciencia del resto es derechamente desorden, sé exactamente donde están todas mis weas. La cosa es que aprovechándome de la lamentablemente excelente memoria selectiva de la bruja (pq cuando se acuera de sacar en cara weas  puede acordarse de weas que pasaron  hace  10 años atrás), me puse *"olvidadizo"*, pero no con mis weas, sino con las weas de uso general. "¿Mi amor ha visto mi destapador?" - "¿De nuevo?, si el otro día te lo pasé, ¿buscaste en el cajón de los servicios?" - "Sí, no lo encuentro ahí..." - "P'ta de nuevo, no buscaste bien aquí está tu wea de destapador..." - "Gracias, ah, muy amable..."
+
+Estamos claros, son weas, pero la bruja  es polvorita, enciende con agua, y se enoja por weas. Aunque yo tampoco soy un santo. WEas que le he reclamado siempre son la colección de vasos y tazas en cualquier parte de la casa. Me acuerdo que estabamos recien pololeando, y por esas weas de la vida  tuve que ir a su escritorio a buscar una wea. Weón, miro la taza que había encima, CSM weón ¡algas! estaban saliendo plantitas de la wea, pq tiene la mala costumbre de dejar conchos de todo, yogurt, cafe, leche, bebida, la wea que sea, incapaz de dejar el vaso o la taza vacías. CSM weón, así que le dejé su wea insalubre al lado de sus cigarros, pa que viera la mierda de taza. Obviamente quedó la cagada, y el resultado nulo. Siguen habiendo tazas con conchos en cualquier lado, p'ta si no cuesta nada  llevar las weas a la cocina y echarles un poco de agua, pero no.  
+Culpo a la crianza, la bruja creció con nana hasta pasados los 20 años, y yo, p'ta me las batí solo desde los 8.
+
+Cuando ya empezamos a vivir juntos eran cosas más cotidianas. Weón, yo no supe nunca de calcetin guacho hasta ahora. Y es basicamente por weas de orden. De nuevo, no soy el weoón más ordenado del universo, pero la clave de eso es dejar las mismas weas en los mismos lugares, onda las llaves en el cajón derecho del escritorio.  
+"Guagua, voy a tomar tus llaves no encuentro las mías"- "OK" - "¿Dónde las tiene?" - Qúe onda weón, siempre dejo las llaves en el mismo lado... "En el cajón de la derecha del escritorio, en la orilla" - "Ya las encontré..." - "Me las deja donde mismo después pofa, que después se me pierden...". Weón y dicho y hecho, "Mi amor, ¿mis llaves?" - "P'ta las buscaste en el cajón del escritorio?" - "Si, no están..." - Claro, el weón no se acordaba que  la bruja las había tomado, así que  ahi vino la bruja con cara de culo al escritorio, abrió el cajón, revolvió todas las weas, y ¡sorpresa! no estaban las llaves. - "P'ta si yo tomé las llaves..., deja ir a ver a mi cartera." Y tampoco estaban ahí las weas de llaves. 10 minutos después, ¡weón, encima de la taza del baño!, "Gracias, ah...", sarcasmo weón, sarcasmo, la emputece, pero es un recurso que utilizo pa evitar  decirle "Te lo dije".
+
+Entonces entre dos weones desordenados de maneras absolutamente diferentes, terminai sobreviviendo juntos más que viviendo juntos.
+
 ## ¿Andai con la wea?
 
 Andar con la wea es una wea diferente en hombre y mujeres.
