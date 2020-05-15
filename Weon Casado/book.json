@@ -5,7 +5,8 @@
         "fontsettings",
         "hints",
         "sharing",
-        "block-align"
+        "block-align",
+        "gtag"
     ],
     "pluginsConfig": {
         "fontsettings": {
@@ -32,6 +33,9 @@
             "all": [
                 "facebook", "google", "twitter"
             ]
+        },
+        "gtag": {
+            "token": "UA-166771212-1"
         }
     }
 }
