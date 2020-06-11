@@ -6,7 +6,8 @@
         "hints",
         "sharing",
         "block-align",
-        "gtag"
+        "gtag",
+        "meta"
     ],
     "pluginsConfig": {
         "fontsettings": {
@@ -36,6 +37,38 @@
         },
         "gtag": {
             "token": "UA-166771212-1"
+        },
+        "meta": {
+            "data": [
+                {
+                    "name": "title",
+                    "content": "El libro del Weón Casado"
+                },
+                {
+                    "name": "description",
+                    "content": "Este es el libro del Weón Casado. Un weón como cualquiera, que se casó y tienen sus historias con otros weones. Machista a cagar y no apta para feminazis."
+                },
+                {
+                    "name": "keywords",
+                    "content": "weon, casado, weon casado, matrimonio, vida en pareja, pareja, hijos, depresión, pandemia, coronavirus, amistad, santiago, chile, amigos, mascotas, libro, historias, anécdotas, revelaciones, secretos"
+                },
+                {
+                    "name": "robots",
+                    "content": "index, follow"
+                },
+                {
+                    "name": "language",
+                    "content": "Spanish"
+                },
+                {
+                    "name": "revisit-after",
+                    "content": "7 days"
+                },
+                {
+                    "name": "author",
+                    "content": "Weón Casado"
+                }
+            ]
         }
     }
 }
