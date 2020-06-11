@@ -17,3 +17,8 @@
 	* [Pendejo del horto](el_cachorro.md#pendejo-del-horto) 
 	* [El cachorro](el_cachorro.md#el-cachorro) 
 * [Secretos para pocos](secretos.md) 
+  * [El Pelao](secretos.md#el-pelao)
+  * [Ya po', ¿qué onda?](secretos.md#ya-po-¿qué-onda)
+  * [La depresión](secretos.md#la-depresión)
+  * [Pa' eso estamos los amigos](secretos.md#pa-eso-estamos-los-amigos)
+  * [El chiste del tartamudo](secretos.md#el-chiste-del-tartamudo)
